@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### 💻 &nbsp;About Me
 <!-- BLOGPOSTS:START -->
+Passionate to build fast, stable, reusable and user-friendly web applications.
 <!-- BLOGPOSTS:END -->
 ----------------------------------------------
 
