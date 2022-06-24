@@ -31,14 +31,4 @@ Passionate to build fast, stable, reusable and user-friendly web applications.
 ### 📈 GitHub Activity Graph:
 ![babaie774's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tohiidd&hide_border=true&theme=redical)
 ----------------------------------------------
-My State
-</br>
-</br>
-[![babaie774's GitHub stats](https://github-readme-stats.vercel.app/api?username=tohiidd)](https://github.com/tohiidd/github-readme-stats)
-----------------------------------------------
-My language state
-</br>
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/babaie774/github-readme-stats)
-----------------------------------------------
 
