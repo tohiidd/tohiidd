@@ -27,8 +27,4 @@ Passionate to build fast, stable, reusable and user-friendly web applications.
 <br/>
 <a href="mailto:tohidebrahimi24@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/mwlite/in/tohid-ebrahimi"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 
-----------------------------------------------
-### 📈 GitHub Activity Graph:
-![babaie774's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tohiidd&hide_border=true&theme=redical)
-----------------------------------------------
-
+------
