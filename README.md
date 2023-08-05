@@ -8,7 +8,6 @@ I'm a self-taught frontend developer. My goal is to master react and javascript 
   <br/>
   <br/>
   
-- 🎓 I’m currently learning advanced concepts of javascript and reactjs.
 - 🌱 I'm on track to learning more about Software Architecture, Data Structure, Algorithem.
 - 🍩 I enjoy playing chess
   </div>
